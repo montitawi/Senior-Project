@@ -10,3 +10,12 @@
 
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
+
+# Database and dat file
+*.db
+*.dat
+*.txt
+
+#MacOs
+.DS_STORE
+
