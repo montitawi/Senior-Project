@@ -12,3 +12,13 @@
 *.out
 
 \.DS_Store
+
+*.db
+
+*.dat
+
+Proof-of-Work/blockchain_pow/blockchain_pow
+
+*.txt
+
+Proof-of-Work/blockchain_pow/var_file
